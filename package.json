@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
 "scripts": {
-  "cypress:e2e": "npx cypress open --e2e --browser chrome"
+ 
 },
   "keywords": [],
   "author": "",
